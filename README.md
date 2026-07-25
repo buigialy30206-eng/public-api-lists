@@ -57,7 +57,7 @@
 
 ## Index
 
-[`Animals`](#animals) · [`Anime`](#anime) · [`Anti-Malware`](#anti-malware) · [`Art & Design`](#art--design) · [`Books`](#books) · [`Business`](#business) · [`Calendar`](#calendar) · [`Cloud Storage & File Sharing`](#cloud-storage--file-sharing) · [`Continuous Integration`](#continuous-integration) · [`Cryptocurrency`](#cryptocurrency) · [`Currency Exchange`](#currency-exchange) · [`Data Validation`](#data-validation) · [`Development`](#development) · [`Dictionaries`](#dictionaries) · [`Disasters`](#disasters) · [`Documents & Productivity`](#documents--productivity) · [`Education`](#education) · [`Environment`](#environment) · [`Events`](#events) · [`Finance`](#finance) · [`Food & Drink`](#food--drink) · [`Fraud Prevention`](#fraud-prevention) · [`Games & Comics`](#games--comics) · [`Geocoding`](#geocoding) · [`Government`](#government) · [`Health`](#health) · [`Jobs`](#jobs) · [`Machine Learning`](#machine-learning) · [`Music`](#music) · [`News`](#news) · [`Open Data`](#open-data) · [`Open Source Projects`](#open-source-projects) · [`Patent`](#patent) · [`Personality`](#personality) · [`Photography`](#photography) · [`Science & Math`](#science--math) · [`Security`](#security) · [`Shopping`](#shopping) · [`Social`](#social) · [`Sports & Fitness`](#sports--fitness) · [`Test Data`](#test-data) · [`Text Analysis`](#text-analysis) · [`Tracking`](#tracking) · [`Transportation`](#transportation) · [`URL Shorteners`](#url-shorteners) · [`Vehicle`](#vehicle) · [`Video`](#video) · [`Weather`](#weather)
+[`Animals`](#animals) · [`Anime`](#anime) · [`Anti-Malware`](#anti-malware) · [`Art & Design`](#art--design) · [`Books`](#books) · [`Business`](#business) · [`Calendar`](#calendar) · [`Cloud Storage & File Sharing`](#cloud-storage--file-sharing) · [`Continuous Integration`](#continuous-integration) · [`Cryptocurrency`](#cryptocurrency) · [`Currency Exchange`](#currency-exchange) · [`Data Validation`](#data-validation) · [`Development`](#development) · [`Dictionaries`](#dictionaries) · [`Disasters`](#disasters) · [`Documents & Productivity`](#documents--productivity) · [`Education`](#education) · [`Environment`](#environment) · [`Events`](#events) · [`Finance`](#finance) · [`Food & Drink`](#food--drink) · [`Fraud Prevention`](#fraud-prevention) · [` & Comics`](#--comics) · [`Geocoding`](#geocoding) · [`Government`](#government) · [`Health`](#health) · [`Jobs`](#jobs) · [`Machine Learning`](#machine-learning) · [`Music`](#music) · [`News`](#news) · [`Open Data`](#open-data) · [`Open Source Projects`](#open-source-projects) · [`Patent`](#patent) · [`Personality`](#personality) · [`Photography`](#photography) · [`Science & Math`](#science--math) · [`Security`](#security) · [`Shopping`](#shopping) · [`Social`](#social) · [`Sports & Fitness`](#sports--fitness) · [`Test Data`](#test-data) · [`Text Analysis`](#text-analysis) · [`Tracking`](#tracking) · [`Transportation`](#transportation) · [`URL Shorteners`](#url-shorteners) · [`Vehicle`](#vehicle) · [`Video`](#video) · [`Weather`](#weather)
 
 ### Animals
 
@@ -369,7 +369,7 @@
 |                           [ScreenshotAPI.net](https://screenshotapi.net/)                           | Create pixel-perfect website screenshots                                                            |    `apiKey`     |  Yes  |   Yes   |
 |                               [ScreenURL](https://screenurl.com/docs)                               | Capture screenshots and PDFs of any webpage via REST API                                            |    `apiKey`     |  Yes  |   Yes   |
 |                                   [SerpApi](https://serpapi.com/)                                   | Scrape Google and other search engines with a simple API                                                               |    `apiKey`     |  Yes  |   No    |
-|                          [Shadify](https://github.com/cheatsnake/shadify)                           | Service for generating data and executing logic to create various games and puzzles                 |       No        |  Yes  |   Yes   |
+|                          [Shadify](https://github.com/cheatsnake/shadify)                           | Service for generating data and executing logic to create various  and puzzles                 |       No        |  Yes  |   Yes   |
 |                                 [SHOUTCLOUD](http://shoutcloud.io/)                                 | ALL-CAPS AS A SERVICE                                                                               |       No        |  No   | Unknown |
 | [SpryTools Screenshot](https://sprytools.com/apis/screenshot) | Capture full-page or viewport website screenshots (PNG/JPEG/WebP) | `apiKey` | Yes | Unknown |
 | [SpryTools Web Scraping](https://sprytools.com/apis/scraping) | Extract HTML/text/CSS-selector data, Cloudflare-bypass | `apiKey` | Yes | Unknown |
@@ -383,7 +383,8 @@
 |                              [XMLable](https://xmlable.com/validator/)                              | Validate XML                                                                                        |       No        |  Yes  |   Yes   |
 |                                 [Yamline](https://yamline.com/k8s/)                                 | Validate Kubernetes manifests                                                                       |       No        |  Yes  |   Yes   |
 |                                     [Zuplo](https://zuplo.com/)                                     | API platform for Development, Deployment, and Docs - add auth, rate-limiting, and monetization fast |    `apiKey`     |  Yes  |   Yes   |
-
+| [Domain WHOIS](https://rapidapi.com/buigialy30206/api/domain-whois-api1) | RDAP domain lookup — get registrar, dates, nameservers | No | Yes | Unknown |
+| [Email Validator](https://rapidapi.com/buigialy30206/api/email-validator-api1) | MX, DNS, disposable email check in JSON | No | Yes | Unknown |
 **[⬆ Back to Index](#index)**
 
 ### Dictionaries
@@ -582,6 +583,7 @@
 |         [Traveller Map](https://travellermap.com/doc/api)                     | [Traveller TTRPG](https://www.mongoosepublishing.com/collections/traveller-rpgs) map world, sub sector and sector information in json, PDF and other formats|       No        |  Yes  |   No    |
 |              [Wargaming.net](https://developers.wargaming.net/)               | Wargaming.net info and stats                                                                                 |    `apiKey`     |  Yes  |   No    |
 |                      [xkcd](https://xkcd.com/json.html)                       | Retrieve xkcd comics as JSON                                                                                 |       No        |  Yes  |   No    |
+| [Steam Data](https://rapidapi.com/buigialy30206/api/steam-data-api) | Game details, player counts, reviews & deals | No | Yes | Unknown |
 
 **[⬆ Back to Index](#index)**
 
